@@ -1,0 +1,158 @@
+{
+  "songs": [
+    {
+      "artist": "Seventeen",
+      "month": "january",
+      "time": "midday",
+      "title": "HOT",
+      "weather": "sunny"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "january",
+      "time": "night",
+      "title": "seasons",
+      "weather": "rainy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "february",
+      "time": "afternoon",
+      "title": "THANKS",
+      "weather": "cloudy"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "february",
+      "time": "midday",
+      "title": "sunny days",
+      "weather": "sunny"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "march",
+      "time": "morning",
+      "title": "love.",
+      "weather": "cloudy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "march",
+      "time": "afternoon",
+      "title": "March",
+      "weather": "sunny"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "april",
+      "time": "midday",
+      "title": "April Shower",
+      "weather": "rainy"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "april",
+      "time": "night",
+      "title": "pink horizon",
+      "weather": "sunny"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "may",
+      "time": "morning",
+      "title": "Maestro",
+      "weather": "cloudy"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "may",
+      "time": "afternoon",
+      "title": "ride",
+      "weather": "rainy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "july",
+      "time": "night",
+      "title": "Don't Wanna Cry",
+      "weather": "rainy"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "july",
+      "time": "morning",
+      "title": "daisy",
+      "weather": "cloudy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "august",
+      "time": "night",
+      "title": "Home",
+      "weather": "rainy"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "august",
+      "time": "midday",
+      "title": "hyang",
+      "weather": "cloudy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "september",
+      "time": "morning",
+      "title": "Pretty U",
+      "weather": "sunny"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "september",
+      "time": "midday",
+      "title": "cherry flavoured love inside your heart",
+      "weather": "sunny"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "october",
+      "time": "afternoon",
+      "title": "seasons",
+      "weather": "rainy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "october",
+      "time": "morning",
+      "title": "Home;Run",
+      "weather": "cloudy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "november",
+      "time": "night",
+      "title": "Love Letter",
+      "weather": "sunny"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "november",
+      "time": "morning",
+      "title": "skylark",
+      "weather": "cloudy"
+    },
+    {
+      "artist": "Seventeen",
+      "month": "december",
+      "time": "afternoon",
+      "title": "Oh My!",
+      "weather": "rainy"
+    },
+    {
+      "artist": "wave to earth",
+      "month": "december",
+      "time": "midday",
+      "title": "summer flows",
+      "weather": "sunny"
+    }
+  ]
+}
